@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Linux Jedi Knight
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Experienced Github Puller
 
 ### Contact me
 
